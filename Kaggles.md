@@ -9,5 +9,6 @@ We are currently focused on building our Machine Learning and Data Science skill
 Tutorial competitions:
 
 [Titanic](https://www.kaggle.com/c/titanic)
+
 [MNIST](https://www.kaggle.com/c/digit-recognizer)
 
