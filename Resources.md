@@ -16,4 +16,4 @@ Here are some good resources for learning about Data Science and Machine Learnin
 
 
 
-[Scripts and CSVs with answers](https://github.com/wcarande/Kaggle-Python)
+[Github repo with Scripts and CSVs (contains answers)](https://github.com/wcarande/Kaggle-Python)
